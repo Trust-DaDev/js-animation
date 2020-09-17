@@ -1,0 +1,11 @@
+/* Add all your styles here */
+h1 {
+ color: green;
+ transition:1s;
+ opacity:0;
+}
+.image{
+    width:160px;
+    height:120px;
+    border-radius:50%;
+}
